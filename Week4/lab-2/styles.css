@@ -1,0 +1,54 @@
+nav {
+    height: 50px;
+    background-color: rosybrown;
+}
+
+a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+footer {
+    height: 50px;
+    background-color: rosybrown;
+}
+
+footer a {
+    text-decoration: none;
+    color: greenyellow;
+    
+}
+
+#copyright {
+    color: red;
+}
+
+video {
+    width: 300px;
+}
+
+form {
+    width: 400px;
+    background-color: lightgray;
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 10px; 
+}
+
+.formfield {
+    padding: 4px;
+}
+
+.formfield label {
+    font-weight: bold;
+}
+
+.formfield input {
+    height: 30px;
+    font-size: 24px;
+}
+
+.formfield input[type="submit"] {
+    border-radius: 30px;
+    font-size: 20px;
+}
