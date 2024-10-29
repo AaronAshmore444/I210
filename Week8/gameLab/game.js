@@ -1,6 +1,7 @@
 const game = {
     lives: 3,
     coins: 0,
+    
     points() {
         return this.coins *10;
 
